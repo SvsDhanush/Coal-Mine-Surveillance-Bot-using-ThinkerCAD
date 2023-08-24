@@ -1,3 +1,4 @@
 # Coal-Mine-Surveillance-Bot-using-Thinkercad
 By implementing a Coal Mine Surveillance bot, which can move around unmanned in the mine and detect the temperature level, fires we can prevent major accidents. We can even use the bot to detect any human presence at the restricted area. Components used Arduino UNO, Breadboard, 16*2 LCD display, Temperature sensor, Gas sensor, Ultrasonic sensor, PIR sensor, Piezo buzzer, Motor.
 
+The repo contains three BRD files which contations the implement for coal mine surveillance bot in thinkercad. SensorsCircuit.brd is the implementation of the sensors part and MotionCircuit.brd is for the controlling the motion of the bot, the CombinedCircuit.brd is the implementation of both the sensors and motion part combined but due heavy implementation of sensors the response of the bot is slowed down so we have seperated the project into two different implementation, sensors and motion.
